@@ -1,0 +1,124 @@
+@font-face {
+    font-family: Poppins;
+    src: url( 'https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+}
+h1 , h3 {
+    text-align: center;
+    color: aliceblue;
+}
+h1{
+    margin-top: 50px;
+}
+h3{
+    font-style: italic;
+}
+fieldset{
+    border: none;
+    border-radius: 6px;
+    background-color: rgba(42,42,73,0.9);
+    color: rgb(240, 248, 255);
+    
+    width: 650px;
+    margin: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+textarea{
+    height: 50px;
+}
+body{
+    background-image: url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg) ;
+    background-attachment: fixed;
+    font-family: Poppins , sans-serif;
+}
+.submit{
+    text-align : center;
+}
+.submit2{
+    border: none;
+    font-size: 15px;
+    border-radius: 2px;
+    background-color: rgb(55,175,101);
+    color: aliceblue;
+    height: 40px;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.comment{
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+.comment2{
+    width: 98%;
+    padding-top: 8px;
+    padding-left: 8px;
+}
+textarea{
+    resize: vertical;
+    min-height: 50px;
+}
+.improv{
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+.improv2{
+    margin-bottom: 10px;
+    position: relative;
+    vertical-align: -5px;
+    width: 20px;
+    height: 20px;
+}
+.feature{
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+.feature2{
+    border: none;
+    border-radius: 2px;
+    height: 30px;
+    padding-left: 10px;
+    width: 100%;
+}
+.recom{
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+.recom2{
+    margin-bottom: 10px;
+    position: relative;
+    vertical-align: -5px;
+    width: 20px;
+    height: 20px;
+}
+.recom3{
+    position: relative;
+    vertical-align: -5px;
+    width: 20px;
+    height: 20px;
+}
+.role{
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+.role2{
+    border: none;
+    border-radius: 2px;
+    height: 30px;
+    padding-left: 10px;
+    width: 100%;
+}
+.name , .age , .email{
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+.name2 , .age2 , .email2{
+    border: none;
+    border-radius: 2px;
+    height: 30px;
+    padding-left: 10px;
+    width: 98%;
+}
