@@ -1,2 +1,2 @@
 # Front-End-Projects
-This repository contains projects written in HTML , CSS , Javascript
+This repository contains projects written in HTML , CSS 
