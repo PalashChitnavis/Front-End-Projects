@@ -1,0 +1,62 @@
+main{
+    background-color: rgb(200, 200, 200);
+    margin: 30px 10px;
+    border-radius: 5px;
+}
+h1{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+}
+caption{
+    font-size: 20px;
+}
+div[id="head-div"]
+{
+    text-align: center;
+    padding-top: 40px;
+}
+div[id="img-div"]
+{
+    background-color: white;
+    margin: 15px;
+    border-radius: 5px;
+    text-align: center;
+    padding-bottom: 15px;
+}
+img{
+    max-width: 100% ;
+    display: block;
+    margin: auto;
+}
+h3{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+ul{
+    width: 40%;
+    margin: auto;
+}
+li{
+    font-size: 18px;
+    text-align: left;
+    padding: 8px;
+}
+div[id="tribute-quote"]{
+    width: 40% ;
+    margin: auto ;
+    padding-bottom: 25px ;
+    padding-top: 25px;
+    text-align: left;
+    font-style: italic;
+    font-size: 17px;
+}
+div[id="tribute-end"]{
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 40px;
+    font-size: 20px;
+}
